@@ -19,27 +19,46 @@
                 </li>
             </ul>
         </div>
-    </div>
-    <div>
-        <h3 class="text-l sm:fond-bold text-gray-100">
-            Laates Posts
-        </h3>
-        <ul class="py-4 sm:text-s pt-4 text-gray-400">
-            <li class="pb-1">
-                <a href="/">What we Love Tech</a>
-            </li>
-            <li class="pb-1">
-                <a href="/">why we love design</a>
-            </li>
-            <li class="pb-1">
-                <a href="/">why we use Laravel</a>
-            </li>
-            <li class="pb-1">
-                <a href="/">Why php is the best</a>
-            </li>
-        </ul>
+        <div>
+            <h3 class="text-l sm:fond-bold text-gray-100">
+                Find us
+            </h3>
+            <ul class="py-4 sm:text-s pt-4 text-gray-400">
+                <li class="pb-1">
+                    <a href="/">What we do</a>
+                </li>
+                <li class="pb-1">
+                    <a href="/">Address</a>
+                </li>
+                <li class="pb-1">
+                    <a href="/">Phone</a>
+                </li>
+                <li class="pb-1">
+                    <a href="/">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <div>
+            <h3 class="text-l sm:fond-bold text-gray-100">
+                Laates Posts
+            </h3>
+            <ul class="py-4 sm:text-s pt-4 text-gray-400">
+                <li class="pb-1">
+                    <a href="/">What we Love Tech</a>
+                </li>
+                <li class="pb-1">
+                    <a href="/">why we love design</a>
+                </li>
+                <li class="pb-1">
+                    <a href="/">why we use Laravel</a>
+                </li>
+                <li class="pb-1">
+                    <a href="/">Why php is the best</a>
+                </li>
+            </ul>
+        </div>
     </div>
     <p class="w-25 w-4/5 pb-3 m-auto text-xs text-gray-100 pt-6">
-    Copyright 2017-2021 JItendra kumar vaishnav. All Rights Reserved
+        Copyright 2017-2021 JItendra kumar vaishnav. All Rights Reserved
     </p>
 </footer>
