@@ -52,7 +52,7 @@
             @yield('content')
         </div>
         <div>
-            @include('layouts.footer');
+            @include('layouts.footer')
         </div>
     </div>
 </body>
