@@ -35,7 +35,9 @@
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod nihil, saepe autem ad doloremqu
         </p>
         <p class="font-extrabold text-gray-600 text-xl pb-9">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum tempora laboriosam totam vitae ab dolor at, officia libero officiis voluptatem eius assumenda iure ut sapiente delectus placeat, corrupti recusandae omnis!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum tempora laboriosam totam vitae ab dolor at,
+            officia libero officiis voluptatem eius assumenda iure ut sapiente delectus placeat, corrupti recusandae
+            omnis!
 
         </p>
         <a href="/blog" class="uppercase bg-blue-500 text-gray-100 text-s font-extrabold py-3 px-8 rounded-3xl">
@@ -58,7 +60,7 @@
         Digital Strategy
     </span>
     <span class="font-extrabold block text-4xl py-1">
-       Backend Develoer
+        Backend Develoer
     </span>
 </div>
 <div class="text-center py-15">
@@ -69,8 +71,29 @@
         Recent Posts
     </h2>
     <p class="m-auto w-4/5 text-gray-500">
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae officiis quaerat tempora dolorem porro dicta sequi blanditiis beatae, maxime repellendus quia rerum, magni eum, expedita illo. Qui veritatis cupiditate eius.
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae officiis quaerat tempora dolorem porro dicta
+        sequi blanditiis beatae, maxime repellendus quia rerum, magni eum, expedita illo. Qui veritatis cupiditate eius.
 
     </p>
+</div>
+<div class="sm:grid grid-cols-2 w-4/5  m-auto">
+    <div class="flex bg-yellow-700 text-gray-100 pt-10">
+        <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block">
+            <span class="uppercase text-xs">
+                PHP
+            </span>
+            <h3 class="text-xl font-bold py-10">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio recusandae fugiat provident dignissimos laudantium voluptatem necessitatibus aut vitae in corrupti dolorum,
+
+            </h3>
+            <a href=""  class="uppercase bg-transparent  border-2 border-gray-100 text-gray-100 text-xs font-extrabold py-3 px-5 rounded-3xl">
+                Find Out More
+            </a>
+        </div>
+    
+    </div>
+    <div>
+        <img src="https://cdn.pixabay.com/photo/2016/02/17/15/37/laptop-1205256_960_720.jpg" width="700" alt="">
+    </div>
 </div>
 @endsection
