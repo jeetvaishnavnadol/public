@@ -1,6 +1,17 @@
 @extends('layouts.app');
 
 @section('content')
+<style>
+    .background-image
+{
+    background-image: url('https://cdn.pixabay.com/photo/2017/07/31/23/45/pen-2562078_960_720.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 600px;
+}
+</style>
 <div class="background-image grid grid-cols-1 m-auto">
     <div class="flex text-gray-100 pt-10">
         <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block text-center">
